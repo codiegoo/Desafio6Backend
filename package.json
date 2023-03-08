@@ -1,0 +1,15 @@
+{
+  "name": "desafioclase6",
+  "version": "1.0.0",
+  "description": "DESAFIO ENTREGABLE \"SERVIDORES WEB\" CLASE 6",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "codiego",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "gitignore": "^0.7.0"
+  }
+}
